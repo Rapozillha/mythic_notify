@@ -5,7 +5,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 name 'Mythic Notify'
-version 'v1.0.4'
+version 'v1.0.5'
 
 ui_page {
     'html/ui.html',
@@ -19,15 +19,13 @@ files {
 
 client_scripts {
 	'client/main.lua',
-	'client/depracated.lua'
+	'client/deprecated.lua'
 }
 
 exports {
 	'SendAlert',
-	'PersistentAlert',
-
-	
---[[ WARNING: These are depracated and may be removed at a future date, Suggest not using it ]]--
+	'PersistentAlert',	
+--[[ WARNING: These are deprecated and may be removed at a future date, Suggest not using it ]]--
 	'DoShortHudText',
 	'DoHudText',
 	'DoLongHudText',
