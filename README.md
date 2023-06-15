@@ -1,4 +1,4 @@
- - Rapozillha#8808
+ - ~~Rapozillha#8808~~ Changed to 'rapozillha' because of the discord discriminator change.
  
 -- Modified and updated by Rapozillha (https://github.com/Rapozillha/mythic_notify)
 -- Made by Alzar (https://github.com/Alzar)
